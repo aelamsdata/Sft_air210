@@ -1,0 +1,12 @@
+{
+    "deflections": {
+        "Cup": 0.0,
+        "SEM": 0.0
+    },
+    "gains": {
+        "Cup": 1.0,
+        "SEM": 0.0
+    },
+    "settings": [],
+    "spectrometer": {}
+}
