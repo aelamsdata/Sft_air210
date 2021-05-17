@@ -1,0 +1,24 @@
+{
+    "He3": {
+        "error": 0.0015338201814720225,
+        "error_type": null,
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "linear",
+        "value": 0.12626957322841292
+    },
+    "He4": {
+        "error": 73.57579190292871,
+        "error_type": null,
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "linear",
+        "value": 113847.96754992873
+    }
+}
