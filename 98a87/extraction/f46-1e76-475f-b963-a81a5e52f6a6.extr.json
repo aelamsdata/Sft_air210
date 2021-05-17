@@ -1,0 +1,29 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 0.0,
+    "commit": "7027357f7bef7e429b9bc33d631da37806ca65ad",
+    "extract_device": "Cryo",
+    "extract_duration": 0.0,
+    "extract_units": "",
+    "extract_value": 0.0,
+    "extraction_context": {
+        "manometer_pressure0": 530.195921049316
+    },
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "---",
+    "load_name": "Stnd",
+    "measured_response": null,
+    "pattern": "",
+    "positions": [],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "---",
+    "videos": [],
+    "weight": 0
+}

@@ -1,0 +1,86 @@
+{
+    "acquisition_software": "pychron 20.1",
+    "aliquot": 21,
+    "analysis_type": "heair",
+    "analyst_name": "alapp",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "",
+    "commit": "7027357f7bef7e429b9bc33d631da37806ca65ad",
+    "conditionals": null,
+    "data_reduction_software": "pychron 20.1",
+    "detectors": {
+        "Cup": {
+            "deflection": 0.0,
+            "gain": 1.0
+        },
+        "SEM": {
+            "deflection": 0.0,
+            "gain": 0.0
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "LoadStnd_11092020",
+    "experiment_type": "Generic",
+    "extraction": "sft_He_std.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "he-01-H",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "Package1",
+    "irradiation_level": "A",
+    "irradiation_position": 1,
+    "isotopes": {
+        "He3": {
+            "detector": "SEM",
+            "name": "He3",
+            "serial_id": "cdd"
+        },
+        "He4": {
+            "detector": "Cup",
+            "name": "He4",
+            "serial_id": "thermo"
+        }
+    },
+    "laboratory": "",
+    "latitude": 0.0,
+    "lithology": "",
+    "lithology_class": "",
+    "lithology_group": "",
+    "lithology_type": "",
+    "longitude": 0.0,
+    "mass_spectrometer": "Sft",
+    "material": "Gas",
+    "measurement": "sft_he120_meas.py",
+    "post_equilibration": "sft_post_eq_he.py",
+    "post_measurement": "sft_he_post_meas.py",
+    "principal_investigator": "AELAMS",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Sft_air210",
+    "rlocation": "",
+    "sample": "HeAir",
+    "source": {
+        "emission": 725.645,
+        "trap": 198.818
+    },
+    "spec_sha": "3b0845c4dd5869f077577714e619860f049a5007",
+    "timestamp": "2021-05-17T12:37:34.047458",
+    "tripped_conditional": null,
+    "unit": "",
+    "username": "alapp",
+    "uuid": "98a87f46-1e76-475f-b963-a81a5e52f6a6",
+    "whiff_result": null
+}
