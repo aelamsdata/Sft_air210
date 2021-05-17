@@ -1,0 +1,87 @@
+{
+    "acquisition_software": "pychron 20.1",
+    "aliquot": 22,
+    "analysis_type": "heair",
+    "analyst_name": "alapp",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "",
+    "commit": "3b3fc8e58893d54540455c11c88c829647b7fda2",
+    "conditionals": null,
+    "data_reduction_software": "pychron 20.1",
+    "detectors": {
+        "Cup": {
+            "deflection": 0.0,
+            "gain": 1.0
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "LoadStnd_11092020",
+    "experiment_type": "Generic",
+    "extraction": "sft_Ne_std.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "he-01-H",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "Package1",
+    "irradiation_level": "A",
+    "irradiation_position": 1,
+    "isotopes": {
+        "Ne20": {
+            "detector": "Cup",
+            "name": "Ne20",
+            "serial_id": "thermo"
+        },
+        "Ne21": {
+            "detector": "Cup",
+            "name": "Ne21",
+            "serial_id": "thermo"
+        },
+        "Ne22": {
+            "detector": "Cup",
+            "name": "Ne22",
+            "serial_id": "thermo"
+        }
+    },
+    "laboratory": "",
+    "latitude": 0.0,
+    "lithology": "",
+    "lithology_class": "",
+    "lithology_group": "",
+    "lithology_type": "",
+    "longitude": 0.0,
+    "mass_spectrometer": "Sft",
+    "material": "Gas",
+    "measurement": "sft_ne_meas.py",
+    "post_equilibration": "sft_post_eq_ne.py",
+    "post_measurement": "sft_ne_post_meas.py",
+    "principal_investigator": "AELAMS",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Sft_air210",
+    "rlocation": "",
+    "sample": "HeAir",
+    "source": {
+        "emission": 1415.16,
+        "trap": 398.532
+    },
+    "spec_sha": "3b0845c4dd5869f077577714e619860f049a5007",
+    "timestamp": "2021-05-17T13:27:41.638123",
+    "tripped_conditional": null,
+    "unit": "",
+    "username": "alapp",
+    "uuid": "390d188d-7f6b-4bd1-bef1-55d7105562de",
+    "whiff_result": null
+}
