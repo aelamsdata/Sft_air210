@@ -1,0 +1,18 @@
+{
+    "Cup": {
+        "center_dac": 0.336675,
+        "center_signal": 116779.761755046,
+        "high_dac": 0.3371,
+        "high_resolving_power": 842.5624999999759,
+        "high_signal": 20972.429803722,
+        "low_dac": 0.33625,
+        "low_resolving_power": 961.1428571428106,
+        "low_signal": 12783.896035395,
+        "points": "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",
+        "resolution": 336.7249999999997
+    },
+    "fmt": ">ff",
+    "interpolation": "",
+    "reference_detector": "Cup",
+    "reference_isotope": "He4"
+}
